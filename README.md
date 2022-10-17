@@ -21,10 +21,10 @@ store them and inform them upon a request.
 ```
 ##TEAM MEMBERS
 ```text
-  -PAAVAI MV
-  -PONNI VALAVAN A
-  -SHARMILA
-  -NANDHINI N
+  -KAVYA S
+  -KEERTHANA S
+  -GAYATHRI SHREE I S
+  -LAKSITA P
 ```
 ##PROJECT DESCRIPTION:
 ```text
